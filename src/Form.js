@@ -3,7 +3,7 @@ import { ethers } from 'ethers';
 
 import ReviewsContract from './artifacts/contracts/Reviews.sol/Reviews.json';
 
-const ReviewsAddres = '0xCc88F7533ac877Dd274c67dDA2311c8182C03549';
+const ReviewsAddres = '0xCc88F7533ac877Dd274c67dDA2311c8182C03549'; //Rinkeby address
 
 
 
